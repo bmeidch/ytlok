@@ -61,8 +61,7 @@ with open('../babybus.txt') as f:
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
-            tvg_id = line[3].strip()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+            tvg_id = line[3].strip()            
         else:
             grab(line)
             
