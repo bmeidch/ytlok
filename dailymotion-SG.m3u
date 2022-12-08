@@ -1,0 +1,45 @@
+#EXTM3U
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Intl" tvg-logo="" tvg-id="", Euronews Español
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="España" tvg-logo="" tvg-id="", Libertad Digital
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", BFM TV
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", La Chaîne L'Équipe
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", CNEWS
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", C8
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Canal + Clair
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo="" tvg-id="", Venezolana de Televisión
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="México" tvg-logo="" tvg-id="", Mexico Travel Channel
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", RMC Story
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4
+
+#EXTINF:-1 group-title="Francia" tvg-logo="" tvg-id="", Franceinfo
+https://raw.githubusercontent.com/ztreamhd/xtrakt/main/assets/not_available.mp4

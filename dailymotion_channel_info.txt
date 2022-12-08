@@ -1,0 +1,35 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Euronews Español | Intl | |
+https://www.dailymotion.com/video/x2j7hpf
+
+Libertad Digital | España | |
+https://www.dailymotion.com/embed/video/xnm032?autoplay=1
+
+BFM TV | Francia | |
+https://www.dailymotion.com/video/xgz4t1
+
+La Chaîne L'Équipe | Francia | |
+https://www.dailymotion.com/video/x2lefik
+
+CNEWS | Francia | |
+https://www.dailymotion.com/video/x3b68jn
+
+C8 | Francia | |
+https://www.dailymotion.com/video/x5gv5rr
+
+Canal + Clair | Francia | |
+https://www.dailymotion.com/video/x5gv6be
+
+Venezolana de Televisión | Venezuela | |
+https://www.dailymotion.com/video/x828i6j
+
+Mexico Travel Channel | México | |
+https://www.dailymotion.com/video/x7v76vf
+
+RMC Story | Francia | |
+https://www.dailymotion.com/video/x13p3qi
+
+Franceinfo | Francia | |
+https://www.dailymotion.com/video/x4rdeu6
