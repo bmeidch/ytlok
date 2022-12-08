@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
-#EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", BABY BUS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670524604/ei/XNqRY6WyDf6Lir4Pz7e3oAI/ip/20.225.222.62/id/NSgmxaRu8j4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJez-BzrYf6K3e_lgB9rbof-b0Lanyf66AdhmYaBEuaJAiB998mPRfCRfe5E16Wu7O08YWPuTesEOZ4zEwfyHe_vYA%3D%3D/file/index.m3u8
