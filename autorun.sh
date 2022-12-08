@@ -1,7 +1,11 @@
 #!/bin/bash
+
 echo $(dirname $0)
+
+python3 -m pip install requests
+
 cd $(dirname $0)/scripts/
-python3 dailymotion_m3ugrabber.py > ../dailymotion.m3u
-python3 dailymotion_m3ugrabber.py "51.195.76.214:3128" > ../dailymotion-EU.m3u
-python3 dailymotion_m3ugrabber.py "128.199.202.122:3128" > ../dailymotion-SG.m3u
+
+python3 youtube_m3ugrabber.py > ../youtube.m3u
+
 echo m3u grabbed

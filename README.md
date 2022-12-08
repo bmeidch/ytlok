@@ -1,39 +1,30 @@
-<h1 align="center"> Dailymotion_to_m3u </h1>
 
-[![M3U generator for Dailymotion](https://github.com/benmoose39/dailymotion_to_m3u/actions/workflows/grabber.yml/badge.svg)](https://github.com/benmoose39/dailymotion_to_m3u/actions/workflows/grabber.yml)
+<h1 align="center"> YouTube_to_m3u </h1>
 
-`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion-{PREFERRED SERVER}.m3u`
-m3u links of Dailymotion live channels, auto-updated everyday.
+[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+
+`https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
+
+Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
+
+
+### Add more channels
+Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
+
+Create a pull request or connect: https://discord.gg/dmgYmAEdee
 
 ### Usage
-Paste one of the following URL based on your location, to avoid buffering: 
-
-`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion-US.m3u`
-
-`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion-EU.m3u`
-
-`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion-SG.m3u`
+Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/benmoose39/dailymotion_to_m3u.git
-cd dailymotion_to_m3u
+git clone https://github.com/benmoose39/YouTube_to_m3u.git
+cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
 ```
 
-### Use proxy to grab m3u
-`python3 dailymotion_m3ugrabber.py <proxy_server_ip:port>`
-
-eg: `python3 dailymotion_m3ugrabber.py 192.168.13.13:1337`
-
-### Add more channels
-Connect on discord and request new channels or create a pull request
-
-If running locally, edit `dailymotion_channel_info.txt` to add more dailymotion channels.
-
-Connect: https://discord.gg/dmgYmAEdee
-
+Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
 
 ### Support
 
