@@ -39,8 +39,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x babybus.sh
+          ./babybus.sh
 
       - name: git add
         run: |
