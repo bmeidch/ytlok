@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: kompas
 
 # Controls when the action will run. 
 on:
@@ -49,5 +49,5 @@ jobs:
 
       - name: commit & push
         run: |
-          git commit -m "links have been updated"
+          git commit -m "Sudah di updated"
           git push
