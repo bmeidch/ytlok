@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: tvone
+name: cna
 
 # Controls when the action will run. 
 on:
@@ -39,8 +39,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x tvone.sh
-          ./tvone.sh
+          chmod +x cna.sh
+          ./cna.sh
 
       - name: git add
         run: |
